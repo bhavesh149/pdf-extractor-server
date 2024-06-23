@@ -14,7 +14,7 @@ app.add_middleware(
 )
 
 #################################   Enter API Key Here  ################################################################
-api_key = '' ###
+api_key = 'sk-proj-BoaMiHCnSbCeFN3gGpHiT3BlbkFJhOpPrblzIxCwNGdHdp6y' ###
 ########################################################################################################################
 
 client = OpenAI(api_key=api_key)
